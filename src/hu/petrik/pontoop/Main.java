@@ -13,10 +13,10 @@ public class Main {
         Pont p3 = new Pont(3, 4);
         Pont p4 = new Pont(100);
 
-//        System.out.println(p1);
-//        System.out.println(p2);
-//        System.out.println(p3);
-//        System.out.println(p4);
+          System.out.println(p1);
+          System.out.println(p2);
+          System.out.println(p3);
+          System.out.println(p4);
 
         Pont[] pontok = new Pont[10];
         for (int i = 0; i < pontok.length; i++) {
@@ -38,16 +38,16 @@ public class Main {
 
 
           Scanner sc = new Scanner(in);
-//
-//        out.println("Adja meg a másik pont koordinátáit");
-//        out.print("x: ");
-//        int masikX = sc.nextInt();
-//        out.print("y: ");
-//        int masikY = sc.nextInt();
-//
-//        Pont masikpont = new Pont(masikX, masikY);
-//
-//        out.printf("Két pont távolsága %f", p3.getTavolsag(masikpont));
+
+          out.println("Adja meg a másik pont koordinátáit");
+          out.print("x: ");
+          int masikX = sc.nextInt();
+          out.print("y: ");
+          int masikY = sc.nextInt();
+
+          Pont masikpont = new Pont(masikX, masikY);
+
+          out.printf("Két pont távolsága %f", p3.getTavolsag(masikpont));
 
         out.println("Adjon meg egy pontot");
         out.print("x: ");

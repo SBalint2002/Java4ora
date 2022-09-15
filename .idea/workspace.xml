@@ -4,7 +4,6 @@
     <list default="true" id="51e195b0-3376-4af1-a9ad-44e808958ceb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/pontoop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/pontoop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/pontoop/pont/Pont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/pontoop/pont/Pont.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
